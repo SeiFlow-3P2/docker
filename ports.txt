@@ -1,0 +1,17 @@
+PAY
+postgres - 5430
+redis - 6380
+
+AUTH
+postgres - 5431
+redis - 6381
+
+BOARD
+mongo web - 8082
+mongo - 27018
+redis - 6382
+
+CALENDAR
+mongo web - 8081 
+mongo - 27017
+redis - 6383
